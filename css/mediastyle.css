@@ -7,9 +7,11 @@
 }
 }
 @media (max-width: 760px) {
-  .safe{
+  .safety{
+  background:#e5e5e5 url(../img/block-bg2.png) 50% 125%/100% no-repeat;
+}
+.safe{
   flex-direction: column-reverse;
-  background: url(../img/block-bg2.png) 50% 125%/100% no-repeat;
 }
 .safe__img{
   width: 100%;

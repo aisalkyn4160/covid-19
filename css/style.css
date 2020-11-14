@@ -11,13 +11,11 @@ body {
   padding: 0 15px;
 }
 .safety{
-  background: url("../img/block-bg1.jpg") 0 0/100% 100%  no-repeat;
+   background:#e5e5e5 url(../img/block-bg2.png) -135px 50%/55% no-repeat;
 }
 .safe{
   display: flex;
-  flex-direction: row;
-  margin-left: -15px;
-  background: url(../img/block-bg2.png) -135px 50%/55% no-repeat;
+  justify-content: space-between;
 }
 .safe__img{
   width: 48%;
